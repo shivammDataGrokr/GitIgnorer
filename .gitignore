@@ -1,0 +1,15 @@
+#.gitignore file for repository named GitIgnorer
+
+
+#All files inside the build directory at the root of the repository
+/build/
+
+
+#All files ending with *.env
+*.env
+
+#All files in the subdirectory test-runs/logs
+test-runs/logs
+
+#All CSV files anywhere in the repository
+*.env
